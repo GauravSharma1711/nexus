@@ -5,7 +5,7 @@ const LogoType = () => {
   return (
     <div className=' flex items-center justify-around'>
         <span>
-             <Image src="/vector.png" alt="" width={124} height={48} />
+             <Image src="/amazon.png" alt="" width={124} height={48} />
         </span>
         <span>
  <Image src="/company2.png" alt="" width={126} height={48} />
